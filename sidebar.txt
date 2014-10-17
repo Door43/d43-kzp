@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kzp:home|Door43 (kzp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kzp|d43-kzp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kzp/archive/master.zip|d43-kzp.zip]]
+
+**Recent Changes**
+{{changes>ns = kzp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kzp|Ethnologue data]]
+
